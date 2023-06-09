@@ -8,13 +8,7 @@ adalah website peminjaman barang yang sudah memiliki sistem CRUD pemmbatasan aks
 
 TTD Arcadius Obaja Naarie 1204200015
 
-### Built With
 
-Nyilih Te-Lo dibangun dengan : 
-
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 
 
