@@ -8,10 +8,19 @@ adalah website peminjaman barang yang sudah memiliki sistem CRUD pemmbatasan aks
 
 TTD Arcadius Obaja Naarie 1204200015
 
-This software uses the following open source packages:
+### Built With
 
-- [Laravel](https://laravel.com/)
-- [Boostrap](https://getbootstrap.com/)
-- [SweetAlert](https://realrashid.github.io/sweet-alert/)
+Nyilih Te-Lo dibangun dengan : 
+
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+
+
+
+
+
+
 
 
